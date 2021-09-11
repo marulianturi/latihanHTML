@@ -184,6 +184,7 @@ cursor: pointer;
 
 .heading {
 	font-weight: normal;
+	color: green;
 }
 
 .message-wrapper {
